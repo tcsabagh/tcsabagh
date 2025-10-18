@@ -9,4 +9,4 @@ Alkalmazott eszközeim az adatelemzésben
 - SQL
 - Microsoft Excel
 
-[Blog](https://pages.github.com/](https://www.analisztika.hu/)
+[Blog](https://www.analisztika.hu/)
