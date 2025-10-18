@@ -7,7 +7,3 @@ Alkalmazott eszközeim az adatelemzésben:
 - Looker Studio
 - SQL
 - Microsoft Excel
-
-> [!NOTE]
-> [Blog](https://www.analisztika.hu/)  
-> [LinkedIn](https://www.linkedin.com/in/timarcsaba/)
