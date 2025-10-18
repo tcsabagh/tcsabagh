@@ -8,5 +8,5 @@ Alkalmazott eszközeim az adatelemzésben:
 - SQL
 - Microsoft Excel
 
-[Blog](https://www.analisztika.hu/)
-[LinkedIn](https://github.com/tcsabagh)
+- [Blog](https://www.analisztika.hu/)
+- [LinkedIn](https://github.com/tcsabagh)
