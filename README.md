@@ -9,5 +9,5 @@ Alkalmazott eszközeim az adatelemzésben:
 - Microsoft Excel
 
 > [!NOTE]
-> [Blog](https://www.analisztika.hu/)
+> [Blog](https://www.analisztika.hu/)  
 > [LinkedIn](https://github.com/tcsabagh)
