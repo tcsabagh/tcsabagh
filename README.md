@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**tcsabagh/tcsabagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jelenleg a Nemzeti Élelmiszerlánc-biztonsági Hivatalnál (Nébih) dolgozom mint junior Data Analyst, ahol napi szinten elemzek olyan adatokat, amelyek hozzájárulnak az élelmiszerrel kapcsolatos csalások, visszaélések és szabálytalanságok feltárásához.
+Munkám során betekintést nyerek a hatósági ellenőrzések és a piaci szereplők adataiba, és igyekszem strukturált, megbízható elemzésekkel segíteni a döntéshozatalt és a megelőző intézkedések kialakítását.
 
-Here are some ideas to get you started:
+Alkalmazott eszközeim az adatelemzésben
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python (pandas, numpy, matplotlib)
+- JupyterLab
+- Looker Studio
+- SQL
+- Microsoft Excel
+
+[Blog]([https://pages.github.com/](https://www.analisztika.hu/))
