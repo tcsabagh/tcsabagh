@@ -10,4 +10,4 @@ Alkalmazott eszközeim az adatelemzésben:
 
 > [!NOTE]
 > [Blog](https://www.analisztika.hu/)  
-> [LinkedIn](https://github.com/tcsabagh)
+> [LinkedIn](https://www.linkedin.com/in/timarcsaba/)
