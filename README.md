@@ -1,9 +1,11 @@
-Tímár Csaba vagyok, a Nemzeti Élelmiszerlánc-biztonsági Hivatalnál (Nébih) dolgozom mint junior Data Analyst, ahol napi szinten elemzek olyan adatokat, amelyek hozzájárulnak az élelmiszerrel kapcsolatos csalások, visszaélések és szabálytalanságok feltárásához.
-Munkám során betekintést nyerek a hatósági ellenőrzések és a piaci szereplők adataiba, és igyekszem strukturált, megbízható elemzésekkel segíteni a döntéshozatalt és a megelőző intézkedések kialakítását.
+Az adatok világából indulva fedeztem fel az informatika igazi motorháztető alatti világát. Bár az adatelemzés megtanított a precizitásra és a komplex logikai összefüggések átlátására, a tanulmányaim során rájöttem, hogy az adatok mögött álló rendszerek felépítése, automatizálása és stabil üzemeltetése az, ami igazán motivál.
 
-Alkalmazott eszközeim az adatelemzésben:
-- Python (pandas, numpy, matplotlib)
-- JupyterLab
-- Looker Studio
-- SQL
-- Microsoft Excel
+Jelenleg az adatszemléletemet ötvözöm a modern infrastruktúra-kezeléssel. Hiszek abban, hogy a jó üzemeltetés alapja az automatizáció és a mérhető teljesítmény.
+
+Miben válik hasznomra az adatelemzői háttér a DevOps területén?
+
+- Adatvezérelt hibaelhárítás: Nem csak javítom a hibákat, hanem keresem a mintázatokat a rendszernaplókban.
+- Erős Python & SQL alapok: Magabiztosan automatizálok folyamatokat és kezelem az adatbázis-infrastruktúrát.
+- Strukturált gondolkodás: Az adatok tisztítása során megszerzett türelmet és precizitást a rendszerek konfigurálásában kamatoztatom.
+
+Amikkel jelenleg foglalkozom: Linux (Ubuntu), Docker, Bash scripting, Cloud alapok.
